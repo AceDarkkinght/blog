@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dilon&#39;s Blog</title>
+    <link>https://acedarkkinght.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Dilon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>acewudilin@foxmail.com (Dilon Wu)</managingEditor>
+    <webMaster>acewudilin@foxmail.com (Dilon Wu)</webMaster>
+    <copyright>(c) 2017 Dilon Wu</copyright>
+    
+	<atom:link href="https://acedarkkinght.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
